@@ -1,4 +1,4 @@
-// 1085 Feb 08 12:47
+// 1985 Feb 08 12:47
 /* %Z% %M% %I% %H% %T% */
 /*	used in typ.c type.sizeof() for implementing sizeof */
 
