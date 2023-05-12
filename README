@@ -6,7 +6,7 @@ To build and install your C++ compiler:
 2)	Edit the file localCC.
 	Change the ROOT variable to /home/directory/C++.
 3)	cd to the directory and issue
-		"make ROOT=/home/directory/C++ from scratch"
+		"make ROOT=/home/directory/C++ fromscratch"
 	This will make everything from scratch and install the executables, libraries and include files locally (i.e., under /home/directory/C++).
 	Issue a
 		"make clean".
